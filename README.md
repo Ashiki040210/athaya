@@ -1,2 +1,2 @@
 # athaya
-apa aja
+Latihan aja
